@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm [Paul Osman](https://paulosman.me). I work at [Honeycomb](https://www.honeycomb.io).
 <!--
 **paulosman/paulosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
